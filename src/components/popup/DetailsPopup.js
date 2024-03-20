@@ -39,7 +39,7 @@ const DetailsPopup = ({ open,data, close }) => {
             <ul>{
               data?.techStack?.map((item,i)=>(
 
-                <li key={index}>{item}</li>
+                <li key={i}>{item}</li>
               ))
               }
             </ul>

@@ -17,10 +17,10 @@ const Header = () => {
           <div className="logo">
             <a className="light" href="#">
               {/* <img src="img/logo/logo.png" alt="" /> */}
-             <span style={{fontWeight:600,fontSize:"20px"}}>{data?.name}</span> 
+             <span style={{fontWeight:700,fontSize:"30px"}}>{data?.name}</span> 
             </a>
             <a className="dark" href="#">
-            <span style={{fontWeight:600,fontSize:"20px"}}>{data?.name}</span> 
+            <span style={{fontWeight:700,fontSize:"30px"}}>{data?.name}</span> 
             </a>
           </div>
           <div className="menu">

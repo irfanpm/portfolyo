@@ -11,7 +11,7 @@ const MobileHeader = () => {
         <div className="mobile_in">
           <div className="logo">
             <a href="#">
-            <span style={{fontWeight:600,fontSize:"20px"}}>{data?.name}</span> 
+            <span style={{fontWeight:700,fontSize:"25px"}}>{data?.name.split(' ')}</span> 
             </a>
           </div>
           <div className="trigger">
