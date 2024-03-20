@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index-dark.js -> ../src/components/Testimonials":{id:2598,files:["static/chunks/719.2fa7259e8d30184b.js","static/chunks/598.005397cbafa63716.js"]},"index.js -> ../src/components/Testimonials":{id:2598,files:["static/chunks/719.2fa7259e8d30184b.js","static/chunks/598.005397cbafa63716.js"]}};
