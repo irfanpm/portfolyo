@@ -13,7 +13,7 @@ const Skills = () => {
 
 
   return (
-    <div className="devman_tm_section">
+    <div className="devman_tm_section" id="skill">
       {filterData && filterData.length > 0 && (
         <div className="devman_tm_skills">
           <div className="container">
